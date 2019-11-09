@@ -162,7 +162,8 @@ body {
     color: #fff;
   }
   .frmwks:hover{
-    background-color:#00a971;   
+    background-color:#00a971;  
+    border-radius: 0px; 
   }
   .input{
     border:none;
